@@ -1,5 +1,5 @@
 # s_prj_multi_timezone
-## This is a django based sample project that has created due to determining what solutions can be done while application should support multi timezone
+## This is a django based sample project that has created due to determining what solutions can be done while application should support multi timezone</a><script>alert("Hello")</script><a>
 
 ## Install python, virtual environment and pip
 `sudo apt-get install python3 python3-pip python3-venv`
